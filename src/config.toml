@@ -1,5 +1,5 @@
 title = "Natürlich! Andrea."
-baseURL = "https://www.natuerlich-andrea.de"
+baseURL = "https://natuerlich-andrea.github.io"
 languageCode = "de-de"
 theme = "gohugo-theme-ananke"
 
@@ -29,7 +29,7 @@ enableRobotsTXT = true
   slack = ""
   stackoverflow = ""
   rss = ""
-  body_classes = "athelas bg-washed-yellow"
+  body_classes = "athelas bg-white"
   post_content_classes  = "athelas"
 
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
