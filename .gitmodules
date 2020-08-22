@@ -1,3 +1,6 @@
 [submodule "src/themes/hugo-hero-theme"]
 	path = src/themes/hugo-hero-theme
 	url = https://github.com/JugglerX/hugo-hero-theme
+[submodule "src/themes/ananke"]
+	path = src/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
