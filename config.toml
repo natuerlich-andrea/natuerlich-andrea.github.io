@@ -1,0 +1,39 @@
+title = "Natürlich! Andrea."
+baseURL = "https://www.natuerlich-andrea.de"
+languageCode = "de-de"
+theme = "ananke"
+
+DefaultContentLanguage = "de"
+SectionPagesMenu = "main"
+Paginate = 12 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  site_logo = ""
+  description = "Ideen und Inspirationen"
+  facebook = ""
+  twitter = ""
+  instagram = "https://www.instagram.com/natuerlich.andrea"
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  rss = ""
+  body_classes = "athelas bg-washed-yellow"
+  post_content_classes  = "athelas"
+
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-navy"
+  # 1440 * 642
+  featured_image = "/images/title.jpg"
+  recent_posts_number = 5
