@@ -1,7 +1,7 @@
 title = "Natürlich! Andrea."
 baseURL = "https://www.natuerlich-andrea.de"
 languageCode = "de-de"
-theme = "gohugo-theme-ananke"
+theme = "ananke"
 
 DefaultContentLanguage = "de"
 SectionPagesMenu = "main"
